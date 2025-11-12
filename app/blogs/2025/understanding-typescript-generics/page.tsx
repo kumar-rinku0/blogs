@@ -18,7 +18,7 @@ export const metadata: Metadata = {
       "Understanding TypeScript Generics: A Deep Dive into Flexible and Reusable Code",
     description:
       "A comprehensive guide to TypeScript generics. Learn how to write reusable, flexible, and type-safe code using one of TypeScript's most powerful features.",
-    url: "https://yourblog.com/blog/typescript-generics",
+    url: "https://yourblog.com/blogs/2025/understanding-typescript-generics",
     type: "article",
     images: [
       {
@@ -245,7 +245,7 @@ interface Post {
         <p className="text-sm text-gray-500 mt-8 border-t pt-4">
           Author: <span className="font-semibold">Rinku Kumar</span> • © 2025{" "}
           <a href="#" className="text-blue-600 hover:underline">
-            blogs.com
+            yourblog.com
           </a>
         </p>
       </article>
