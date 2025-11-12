@@ -5,7 +5,7 @@ type BlogType = {
   url: string;
 };
 
-const blogs2025: BlogType[] = [
+const blogs: BlogType[] = [
   {
     title: "Understanding TypeScript Generics",
     date: "2025-02-10",
@@ -21,4 +21,4 @@ const blogs2025: BlogType[] = [
     url: "/blogs/2025/building-scalable-web-applications-with-nextjs",
   },
 ];
-export default blogs2025;
+export default blogs;
